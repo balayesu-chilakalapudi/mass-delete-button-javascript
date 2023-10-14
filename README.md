@@ -1,5 +1,7 @@
 # mass-delete-button-javascript
 mass-delete-button-javascript
+use this javascript script code for deleting number of records on an object listview.
+
 ```
 {!REQUIRESCRIPT("/soap/ajax/21.0/connection.js")}
  
